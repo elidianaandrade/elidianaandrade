@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/elidianaandrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elidianaandrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&layout=compact&langs_count=7&theme=dark"/>
+<!-- MOST USED LANGUAGES <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
   
 <!-- Social -->

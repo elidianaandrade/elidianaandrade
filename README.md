@@ -1,4 +1,4 @@
-<h1>ELIDIANA ANDRADE</h1>
+### ELIDIANA ANDRADE
 
 <!-- Status -->
 <div align="left">
@@ -15,12 +15,13 @@
 </div>  -->
   
 <!-- Social --> 
-## 
+###   
 <div align="left">
-  <a href="https://instagram.com/elidianaandrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/c/elidianaandrade" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/elidianaandrade" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<!--   
+  <a href="https://instagram.com/elidianaandrade" target="_blank"><img align="center" height="40" alt="INSTAGRAM" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png"></a>
+  <a href="https://www.youtube.com/c/elidianaandrade" target="_blank"><img align="center" height="40" alt="YOUTUBE" src="https://cdn-icons-png.flaticon.com/512/1384/1384012.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elidianaandrade/" target="_blank"><img align="center" height="40" alt="LINKEDIN" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" target="_blank"></a>
+<!--
+  <a href="https://www.twitch.tv/elidianaandrade" target="_blank"><img align="center" height="40" alt="TWITCH" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
   <a href="url-discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 -->
 </div>

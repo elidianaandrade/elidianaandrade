@@ -25,4 +25,4 @@
 -->
 </div>
   
-<!-- ![Snake animation](https://github.com/elidianaandrade/elidianaandrade/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/elidianaandrade/elidianaandrade/blob/output/github-contribution-grid-snake.svg) 

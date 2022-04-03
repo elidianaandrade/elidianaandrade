@@ -3,26 +3,23 @@
 <!-- Status -->
 <div align="left">
   <a href="https://github.com/elidianaandrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elidianaandrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&layout=compact&langs_count=7&theme=dark"/> -->
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=elidianaandrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
-  
-<!-- Languages
-<div style="display: inline_block" align="center"><br>
-  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-</div>  -->
-  
-<!-- Social --> 
-###   
+
+<!-- Technologies -->
+<div style="display: inline_block" align="left"><br>
+  <img alt="Database" height="35" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg">
+  <img alt="JS" height="36" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js-square.svg">
+  <img alt="HTML5" height="36" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg">
+  <img alt="CSS3" height="36" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/css3-alt.svg">
+</div>  
+
+<!-- Contact --> 
+###   Contact
 <div align="left">
-  <a href="https://instagram.com/elidianaandrade" target="_blank"><img align="center" height="40" alt="INSTAGRAM" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png"></a>
-<!--
-  <a href="https://www.linkedin.com/in/elidianaandrade/" target="_blank"><img align="center" height="40" alt="LINKEDIN" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" target="_blank"></a>
-  <a href="https://www.youtube.com/c/elidianaandrade" target="_blank"><img align="center" height="40" alt="YOUTUBE" src="https://cdn-icons-png.flaticon.com/512/1384/1384012.png" target="_blank"></a>
-  <a href="https://www.twitch.tv/elidianaandrade" target="_blank"><img align="center" height="40" alt="TWITCH" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
--->
+  <a href="mailto:elidianaandrade@outlook.com"><img alt="E-mail" height="35" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg">
+  </a>
+  <a href="https://instagram.com/elidianaandrade" target="_blank"><img alt="Instagram" height="35" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg">
+  </a>
 </div>
-  
-<!--![Snake animation](https://github.com/seu-usuário-aqui/elidianaandrade/blob/output/github-contribution-grid-snake.svg)-->

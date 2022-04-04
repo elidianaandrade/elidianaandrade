@@ -18,8 +18,8 @@
 <!-- Contact --> 
 ###   Contact
 <div align="left">
-  <a href="mailto:elidianaandrade@outlook.com"><img alt="E-mail" height="35" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg">
+  <a href="mailto:elidianaandrade@outlook.com"><img alt="E-mail" height="35" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/square-envelope.svg">
   </a>
-  <a href="https://instagram.com/elidianaandrade" target="_blank"><img alt="Instagram" height="35" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg">
+  <a href="https://instagram.com/elidianaandrade" target="_blank"><img alt="Instagram" height="35" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram-square.svg">
   </a>
 </div>

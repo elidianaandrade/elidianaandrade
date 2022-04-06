@@ -1,7 +1,7 @@
 # ELIDIANA ANDRADE
 
 <!-- Status -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elidianaandrade&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elidianaandrade&show_icons=true&theme=dark)
 
 ###   Contact
 <div align="left">

@@ -15,6 +15,9 @@
   <a href="https://twitter.com/elidianaandrade" target="_blank">
    <img alt="Twitter" height="35" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter-square.svg">
   </a>
+  <a href="https://www.linkedin.com/in/elidianaandrade/" target="_blank">
+   <img alt="LinkedIn" height="35" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg">
+  </a>
 </div>
 
 <!--

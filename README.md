@@ -1,8 +1,8 @@
 ## ELIDIANA ANDRADE
 
 <!-- Status -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elidianaandrade&count_private=true&show_icons=true&hide=prs&line_height=24&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&count_private=true&show_icons=true&theme=dark)](https://github.com/elidianaandrade/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elidianaandrade&count_private=true&show_icons=true&hide=prs&line_height=24&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&count_private=true&show_icons=true&theme=merko)](https://github.com/elidianaandrade/github-readme-stats)
 
 <!-- Contact -->
 <div align="left">

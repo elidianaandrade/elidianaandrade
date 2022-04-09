@@ -12,6 +12,9 @@
   <a href="https://instagram.com/elidianaandrade" target="_blank">
     <img alt="Instagram" height="35" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram-square.svg">
   </a>
+  <a href="https://twitter.com/elidianaandrade" target="_blank">
+   <img alt="Twitter" height="35" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter-square.svg">
+  </a>
 </div>
 
 <!--

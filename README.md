@@ -2,7 +2,7 @@
 
 <!-- Status -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elidianaandrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=prs&bg_color=45,000,151515&text_color=fff&border_radius=0&border_color=fff&icon_color=00FFF0&theme=apprentice)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&hide_title=false&count_private=true&layout=compact&card_width=300&show_icons=true&title_color=fff&bg_color=45,000,151515&text_color=fff&border_radius=0&border_color=fff)](https://github.com/elidianaandrade/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&hide_title=false&count_private=true&layout=compact&card_width=290&show_icons=true&title_color=fff&bg_color=45,000,151515&text_color=fff&border_radius=0&border_color=fff)](https://github.com/elidianaandrade/github-readme-stats)
 
 <!-- Contact -->
 <div align="left">

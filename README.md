@@ -15,6 +15,18 @@
 [![CSS3](https://img.shields.io/badge/CSS3-D5F7E6?style=for-the-badge&logo=css3&logoColor=00BFFF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-D5F7E6?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+<h3 align="left">Tools</h3>
+
+![Git](https://img.shields.io/badge/Git-D5F7E6?style=for-the-badge&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-D5F7E6?style=for-the-badge&logo=visual-studio-code&logoColor=00BFFF)
+![Figma](https://img.shields.io/badge/Figma-D5F7E6?style=for-the-badge&logo=figma&logoColor=ff24bd)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-D5F7E6?style=for-the-badge&logo=microsoft-sql-server&logoColor=EF322B)
+![Power BI](https://img.shields.io/badge/Power%20BI-D5F7E6?style=for-the-badge&logo=power-bi)
+![Blender](https://img.shields.io/badge/Blender-D5F7E6?style=for-the-badge&logo=blender)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-D5F7E6?style=for-the-badge&logo=adobe-photoshop)
+![Microsoft Office](https://img.shields.io/badge/Office-D5F7E6?style=for-the-badge&logo=microsoft-office&logoColor=EB3D01)
+
+
 <br>
 
 <h3 align="left">Connect with me</h3>

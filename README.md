@@ -35,11 +35,11 @@
 
 <details align="left">
   <summary><b>Credits</b></summary> 
-  Badges by <a href="https://shields.io/">shields.io</a>
+  - Badges by <a href="https://shields.io/">shields.io</a>
   <br>
-  GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   <br>
-  Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a>
 </details>
 <div align="right">
   <a href="#top">

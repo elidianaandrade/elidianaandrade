@@ -17,9 +17,11 @@
 [![CSS3](https://img.shields.io/badge/CSS3-D5F7E6?style=for-the-badge&logo=css3&logoColor=00BFFF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-D5F7E6?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+<br>
+
 <h3 align="left">Connect with me</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=72E7B2&color:FFF)](mailto:elidianaandrade@outlook.com)
+[![E-mail](https://img.shields.io/badge/-elidianaandrade@outlook.com-000?style=for-the-badge&logo=microsoft-outlook&logoColor=72E7B2&color:FFF)](mailto:elidianaandrade@outlook.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=72E7B2&color:FFF)](https://instagram.com/elidianaandrade)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=72E7B2&color:FFF)](https://twitter.com/elidianaandrade)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=72E7B2&color:FFF)](https://www.linkedin.com/in/elidianaandrade/)

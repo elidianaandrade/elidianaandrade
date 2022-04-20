@@ -19,12 +19,14 @@
 
 ![Git](https://img.shields.io/badge/Git-E7ECEB?style=for-the-badge&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-E7ECEB?style=for-the-badge&logo=visual-studio-code&logoColor=00BFFF)
-![Figma](https://img.shields.io/badge/Figma-E7ECEB?style=for-the-badge&logo=figma&logoColor=ff24bd)
+![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft-sql-server&logoColor=EF322B)
+![Figma](https://img.shields.io/badge/Figma-E7ECEB?style=for-the-badge&logo=figma&logoColor=ff24bd)
 ![Power BI](https://img.shields.io/badge/Power%20BI-E7ECEB?style=for-the-badge&logo=power-bi)
 ![Blender](https://img.shields.io/badge/Blender-E7ECEB?style=for-the-badge&logo=blender)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-E7ECEB?style=for-the-badge&logo=adobe-photoshop)
 ![Adobe Premiere](https://img.shields.io/badge/Premiere-E7ECEB?style=for-the-badge&logo=adobe-premiere-pro&logoColor=9999FF)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-E7ECEB?style=for-the-badge&logoColor=000)
 ![Microsoft Office](https://img.shields.io/badge/Office-E7ECEB?style=for-the-badge&logo=microsoft-office&logoColor=EB3D01)
 
 <br>

@@ -26,7 +26,7 @@
 ![Blender](https://img.shields.io/badge/Blender-E7ECEB?style=for-the-badge&logo=blender)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-E7ECEB?style=for-the-badge&logo=adobe-photoshop)
 ![Adobe Premiere](https://img.shields.io/badge/Premiere-E7ECEB?style=for-the-badge&logo=adobe-premiere-pro&logoColor=9999FF)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-E7ECEB?style=for-the-badge&logoColor=000)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci-E7ECEB?style=for-the-badge&logoColor=000)
 ![Microsoft Office](https://img.shields.io/badge/Office-E7ECEB?style=for-the-badge&logo=microsoft-office&logoColor=EB3D01)
 
 <br>

@@ -15,6 +15,8 @@
 [![CSS3](https://img.shields.io/badge/CSS3-D5F7E6?style=for-the-badge&logo=css3&logoColor=00BFFF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-D5F7E6?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+<br>
+
 <h3 align="left">Connect with me</h3>
 
 [![E-mail](https://img.shields.io/badge/-elidianaandrade@outlook.com-000?style=for-the-badge&logo=microsoft-outlook&logoColor=72E7B2&color:FFF)](mailto:elidianaandrade@outlook.com)
@@ -29,15 +31,18 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elidianaandrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=30,D5F7E6,FFF&text_color=000&border_radius=3&border_color=FFF&icon_color=1B2E35&theme=swift)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&hide_title=false&count_private=true&layout=compact&card_width=297&show_icons=true&title_color=000&bg_color=30,FFF,D5F7E6&text_color=000&border_radius=3&border_color=FFF)](https://github.com/elidianaandrade/github-readme-stats)
 
+<br>
+
+<details align="left">
+  <summary><b>Credits</b></summary> 
+  Badges by <a href="https://shields.io/">shields.io</a>
+  <br>
+  GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  <br>
+  Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a>
+</details>
 <div align="right">
   <a href="#top">
     <img alt="Up" height="25" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-up.svg">
   </a>
 </div>
-
-<!-- Credits 
-GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
-Badges by [shields.io](https://shields.io/)
-<br>
-Developer vector created by [storyset - www.freepik.com](https://www.freepik.com/vectors/developer)
--->

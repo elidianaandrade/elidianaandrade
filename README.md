@@ -43,7 +43,7 @@
 <h3 align="left">GitHub Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elidianaandrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=30,D5F7E6,FFF&text_color=000&border_radius=3&border_color=FFF&icon_color=1B2E35&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&hide_title=false&count_private=true&layout=compact&card_width=297&show_icons=true&title_color=000&bg_color=30,FFF,D5F7E6&text_color=000&border_radius=3&border_color=FFF)](https://github.com/elidianaandrade/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&hide_title=false&count_private=true&layout=compact&card_width=290&show_icons=true&title_color=000&bg_color=30,FFF,D5F7E6&text_color=000&border_radius=3&border_color=FFF)](https://github.com/elidianaandrade/github-readme-stats)
 
 <br>
 

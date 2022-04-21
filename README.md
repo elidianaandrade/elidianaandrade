@@ -6,7 +6,7 @@
 
 <h3 align="left">Studying</h3>
 
-[![React.JS](https://img.shields.io/badge/React.JS-1D2F36?style=for-the-badge&logo=react&logoColor=61dafb)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![React.JS](https://img.shields.io/badge/React.JS-1D2F36?style=for-the-badge&logo=react&logoColor=61dafb)](https://pt-br.reactjs.org/docs/getting-started.html)
 
 
 <h3 align="left">Main skills</h3>

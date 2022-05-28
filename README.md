@@ -2,7 +2,7 @@
 
 <h1 id="top" align="left">About me</h1>
 
-<p align="left">Hi! My name is <strong>Elidiana Andrade</strong>, I am an architect and urban planner and an aspiring web developer.</p>
+<p align="left">Hi! My name is <a href="https://elidianaandrade.github.io/"><strong>Elidiana Andrade</strong></a>, I am an architect and urban planner and an aspiring web developer.</p>
 
 <h3 align="left">Studying</h3>
 

@@ -6,9 +6,9 @@
 
 <h3 align="left">Studying</h3>
 
-[![React.JS](https://img.shields.io/badge/React.JS-1D2F36?style=for-the-badge&logo=react&logoColor=61dafb)](https://pt-br.reactjs.org/docs/getting-started.html)
-[![Java](https://img.shields.io/badge/Java-1D2F36?style=for-the-badge&logo=java&logoColor=61dafb)](https://www.oracle.com/java/technologies/javase-documentation.html)
-<!-- [![TypeScript](https://img.shields.io/badge/TypeScript-1D2F36?style=for-the-badge&logo=typescript&logoColor=61dafb)](https://www.typescriptlang.org/docs/)-->
+![Angular](https://img.shields.io/badge/Angular-1D2F36?style=for-the-badge&logo=angular&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-1D2F36?style=for-the-badge&logo=typescript&logoColor=61dafb)
+
 
 
 <h3 align="left">Main skills</h3>

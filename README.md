@@ -6,8 +6,8 @@
 
 <h3 align="left">Studying</h3>
 
-![Angular](https://img.shields.io/badge/Angular-040035?style=for-the-badge&logo=angular&logoColor=A57DF7)
-![TypeScript](https://img.shields.io/badge/TypeScript-040035?style=for-the-badge&logo=typescript&logoColor=A57DF7)
+![Angular](https://img.shields.io/badge/Angular-020114?style=for-the-badge&logo=angular&logoColor=A57DF7)
+![TypeScript](https://img.shields.io/badge/TypeScript-020114?style=for-the-badge&logo=typescript&logoColor=A57DF7)
 
 
 <h3 align="left">Main skills</h3>
@@ -44,8 +44,8 @@
 
 <h3 align="left">GitHub Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elidianaandrade&hide_title=false&show_icons=true&include_all_commits=false&count_private=true&line_height=24&hide=issues&bg_color=020114,020114,020114&title_color=FFF&text_color=FFF&border_radius=3&border_color=212327&icon_color=6610F2&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&hide_title=false&count_private=true&layout=compact&card_width=290&show_icons=true&title_color=FFF&bg_color=020114,020114,020114&text_color=FFF&border_radius=3&border_color=212327)](https://github.com/elidianaandrade/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elidianaandrade&hide_title=false&show_icons=true&include_all_commits=false&count_private=true&line_height=24&hide=issues&bg_color=020114,020114,020114&title_color=FFF&text_color=FFF&border_radius=3&border_color=30363d&icon_color=6610F2&theme=swift)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elidianaandrade&hide_title=false&count_private=true&layout=compact&card_width=290&show_icons=true&title_color=FFF&bg_color=020114,020114,020114&text_color=FFF&border_radius=3&border_color=30363d)](https://github.com/elidianaandrade/github-readme-stats)
 
 <br>
 

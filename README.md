@@ -36,9 +36,12 @@
 
 [![E-mail](https://img.shields.io/badge/-elidianaandrade@outlook.com-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=6610F2&color:FFF)](mailto:elidianaandrade@outlook.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&logo=instagram&logoColor=6610F2&color:FFF)](https://instagram.com/elidianaandrade)
-[![Twitter](https://img.shields.io/badge/-Twitter-020114?style=for-the-badge&logo=twitter&logoColor=6610F2&color:FFF)](https://twitter.com/elidianaandrade)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=6610F2&color:FFF)](https://www.linkedin.com/in/elidianaandrade/)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-020114?style=for-the-badge&logo=dev.to&logoColor=6610F2&color:FFF)](https://dev.to/elidianaandrade)
+
+<!-- 
+[![Twitter](https://img.shields.io/badge/-Twitter-020114?style=for-the-badge&logo=twitter&logoColor=6610F2&color:FFF)](https://twitter.com/elidianaandrade)
+-->
 
 <br>
 

@@ -12,11 +12,11 @@
 ![React.js](https://img.shields.io/badge/React-ECE2FB?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ECE2FB?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ECE2FB?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Sass](https://img.shields.io/badge/Sass-ECE2FB?style=for-the-badge&logo=sass)
 ![Java](https://img.shields.io/badge/Java-ECE2FB?style=for-the-badge&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-ECE2FB?style=for-the-badge&logo=spring)
 ![Python](https://img.shields.io/badge/Python-ECE2FB?style=for-the-badge&logo=python)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-ECE2FB?style=for-the-badge&logo=bootstrap)
-![Sass](https://img.shields.io/badge/Sass-ECE2FB?style=for-the-badge&logo=sass)
 
 <h3 align="left">Tools</h3>
 

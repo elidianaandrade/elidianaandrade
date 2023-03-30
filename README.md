@@ -6,6 +6,9 @@
 <br>
  Passionate about arts and technology, some of my hobbies are games, watching, reading, and making cosplay accessories <a href="https://www.instagram.com/elicosmaker/">(@elicosmaker)</a>.</p>
 
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=7520FF)](https://elidianaandrade.github.io/)
+[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-7520FF?style=for-the-badge)](https://elidianaandrade.github.io/)
+
 <h3 align="left">Skills</h3>
 
 ![Angular](https://img.shields.io/badge/Angular-F0E3FC?style=for-the-badge&logo=angular&logoColor=FF0000)
@@ -21,8 +24,9 @@
 <h3 align="left">Connect with me</h3>
 
 [![E-mail](https://img.shields.io/badge/-elidianaandrade@outlook.com-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=7520FF&color:FFF)](mailto:elidianaandrade@outlook.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-020114?style=for-the-badge&logo=github&logoColor=7520FF&color:FFF)](https://elidianaandrade.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=7520FF&color:FFF)](https://www.linkedin.com/in/elidianaandrade/)
+[![Instagram](https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&logo=instagram&logoColor=7520FF&color:FFF)](https://www.instagram.com/elicosmaker/)
+
 
 <h3 align="left">GitHub Stats</h3>
 

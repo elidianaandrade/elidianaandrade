@@ -8,25 +8,15 @@
 
 <h3 align="left">Skills</h3>
 
-![Angular](https://img.shields.io/badge/Angular-ECE2FB?style=for-the-badge&logo=angular&logoColor=FF0000)
-![React.js](https://img.shields.io/badge/React-ECE2FB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-ECE2FB?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-ECE2FB?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Sass](https://img.shields.io/badge/Sass-ECE2FB?style=for-the-badge&logo=sass)
-![Java](https://img.shields.io/badge/Java-ECE2FB?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/Spring-ECE2FB?style=for-the-badge&logo=spring)
-![Python](https://img.shields.io/badge/Python-ECE2FB?style=for-the-badge&logo=python)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-ECE2FB?style=for-the-badge&logo=bootstrap)
-
-<h3 align="left">Tools</h3>
-
-![Git](https://img.shields.io/badge/Git-E7ECEB?style=for-the-badge&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-E7ECEB?style=for-the-badge&logo=visual-studio-code&logoColor=00BFFF)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-E7ECEB?style=for-the-badge&logo=intellij&logoColor=00BFFF)
-![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft-sql-server&logoColor=EF322B)
-![Figma](https://img.shields.io/badge/Figma-E7ECEB?style=for-the-badge&logo=figma&logoColor=ff24bd)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-E7ECEB?style=for-the-badge&logoColor=000)
+![Angular](https://img.shields.io/badge/Angular-F0E3FC?style=for-the-badge&logo=angular&logoColor=FF0000)
+![React.js](https://img.shields.io/badge/React-F0E3FC?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-F0E3FC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0E3FC?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Sass](https://img.shields.io/badge/Sass-F0E3FC?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-F0E3FC?style=for-the-badge&logo=bootstrap)
+![Python](https://img.shields.io/badge/Python-F0E3FC?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-F0E3FC?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/Spring-F0E3FC?style=for-the-badge&logo=spring)
 
 <h3 align="left">Connect with me</h3>
 
@@ -47,4 +37,6 @@
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  
+  <div align="right">Made with 💜 by <a href="https://elidianaandrade.github.io/">EA</a>.</div>
+
 </details>

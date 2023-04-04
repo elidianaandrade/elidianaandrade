@@ -1,8 +1,12 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://user-images.githubusercontent.com/97471199/177056026-104a8f46-692b-4b65-8ba4-d0fc8946da0f.png">
 
-<h1 id="top" align="left">About me</h1>
+<h1>
+    <a href="https://elidianaandrade.github.io/">
+     <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://elidianaandrade.github.io/assets/images/ea-logo.webp"></a>
+    <span>Elidiana Andrade</span>
+</h1>
 
-<p align="left"><a href="https://elidianaandrade.github.io/"><strong>Elidiana Andrade</strong></a>, Software Engineer from Brazil. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
+<p align="left">Software Engineer from Brazil. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
 <br>
  Passionate about arts and technology, some of my hobbies are games, watching, reading, and making cosplay accessories <a href="https://www.instagram.com/elicosmaker/">(@elicosmaker)</a>.</p>
 

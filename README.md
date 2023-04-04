@@ -6,7 +6,7 @@
     <span>Elidiana Andrade</span>
 </h1>
 
-<p align="left">Software Engineer from Brazil. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
+<p align="left">Front-end Developer from Salvador-BA, Brazil, post graduating at Software Development with Agile Methodology. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
 <br>
  Passionate about arts and technology, some of my hobbies are games, watching, reading, and making cosplay accessories <a href="https://www.instagram.com/elicosmaker/">(@elicosmaker)</a>.</p>
 

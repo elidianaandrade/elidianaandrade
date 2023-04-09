@@ -13,18 +13,6 @@
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=7520FF)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-7520FF?style=for-the-badge)](https://elidianaandrade.github.io/)
 
-<h3 align="left">Skills</h3>
-
-![Angular](https://img.shields.io/badge/Angular-F0E3FC?style=for-the-badge&logo=angular&logoColor=FF0000)
-![React.js](https://img.shields.io/badge/React-F0E3FC?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-F0E3FC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0E3FC?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Sass](https://img.shields.io/badge/Sass-F0E3FC?style=for-the-badge&logo=sass)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-F0E3FC?style=for-the-badge&logo=bootstrap)
-![Python](https://img.shields.io/badge/Python-F0E3FC?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-F0E3FC?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/Spring-F0E3FC?style=for-the-badge&logo=spring)
-
 <h3 align="left">Connect with me</h3>
 
 [![E-mail](https://img.shields.io/badge/-elidianaandrade@outlook.com-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=7520FF&color:FFF)](mailto:elidianaandrade@outlook.com)

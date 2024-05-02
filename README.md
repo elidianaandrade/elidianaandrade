@@ -28,8 +28,8 @@
 ## Veio pelo Desafio DIO Open Source?
 O Repositório foi transferido para a conta da DIO em [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source): 
 
-
-[![dio-lab-opensource](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=dio-lab-open-source&bg_color=000&border_radius=3&border_color=36123c&show_icons=true&icon_color=FF00F6&title_color=FF00F6&text_color=FFF)](https://github.com/digitalinnovationone/dio-lab-open-source)
+| [![dio-lab-opensource](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=dio-lab-open-source&bg_color=000&border_radius=3&border_color=36123c&show_icons=true&icon_color=FF00F6&title_color=FF00F6&text_color=FFF)](https://github.com/digitalinnovationone/dio-lab-open-source) | <img align="center" alt="DIO Lab Open Source" height="140px" src="https://media.licdn.com/dms/image/D4D2DAQFQhTukvqRTQw/profile-treasury-image-shrink_800_800/0/1684348688484?e=1715270400&v=beta&t=ZXfBPMRHCOIFr4c9x7bgtU24talGDzfe0wQJylx7cRE"></a>|
+|------------------------------|------------------------|
 
 <br>
 <details align="left">

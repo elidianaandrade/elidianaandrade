@@ -1,31 +1,30 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="320" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<h2>
+	<span>Hello! I'm Eli 🫰</span>
+	<img align="right" alt="Stars" src="https://img.shields.io/github/stars/elidianaandrade">
+	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/elidianaandrade?style=social">
+</h2>
 
-<h1>
-    <a href="https://elidianaandrade.github.io/">
-     <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
-    <span>Elidiana Andrade</span>
-</h1>
+Tech Education Analyst at DIO, a postgrad in Software Development with Agile Methodology, and a content creator who loves sharing what I learn along the way.
 
-<p align="justify">Tech Education Analyst at DIO, postgraduate at Software Development with Agile Methodology.</p>
+### Certifications
+![AWS CLF-C02](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-fff?style=flat&logo=amazonwebservices&logoColor=FFFFFF&labelColor=1e1c28)
+![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations%20Certification-fff?style=flat&logo=github&logoColor=FFFFFF&labelColor=1e1c28)
 
 ### Connect with me
+[![LinkedIn](https://img.shields.io/badge/in/elidiana-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/elidiana/)
+[![Instagram](https://img.shields.io/badge/@elicosmaker-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.instagram.com/elicosmaker/)
+[![YouTube](https://img.shields.io/badge/@casalfullstack-fff?style=flat&logo=youtube&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.youtube.com/@casalfullstack)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/elidianaandrade/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/elicosmaker/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@casalfullstack)
+##
 
-### GitHub Stats
+### 🎬 Latest Video
+- [🇧🇷 Escrevendo uma Aplicação Utilizando o GitHub Copilot na Prática](https://www.youtube.com/watch?v=jecdgYlKOIQ)
+  
+##
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elidianaandrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
+### 📔 Free Study Material
+- [🇧🇷 Jornada Gamificada de Git e GitHub](https://elidianaandrade.gitbook.io/learning-quest/git-and-github/)
 
-<details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
- 
-  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
+##
 
-</details>
+Thanks for visiting — happy coding! 🩷

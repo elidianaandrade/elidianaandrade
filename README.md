@@ -4,7 +4,7 @@
 	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/elidianaandrade?style=social">
 </h2>
 
-Tech Education Analyst at DIO, a postgrad in Software Development with Agile Methodology, and a content creator who loves sharing what I learn along the way.
+Tech Education Analyst at DIO, a postgrad in Software Development with Agile Methodology, and a content creator who loves sharing what I learn along the way. 
 
 ### Certifications
 ![AWS CLF-C02](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-fff?style=flat&logo=amazonwebservices&logoColor=FFFFFF&labelColor=1e1c28)

@@ -1,10 +1,10 @@
 <h2>
-	<span>Hello! I'm Eli 🫰</span>
+	<span>Hello! I'm Eli 💜</span>
 	<img align="right" alt="Stars" src="https://img.shields.io/github/stars/elidianaandrade">
 	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/elidianaandrade?style=social">
 </h2>
 
-Tech Education Analyst at DIO, a postgrad in Software Development with Agile Methodology, and a content creator who loves sharing what I learn along the way.
+Postgrad in Software Development with Agile Methodology, and a content creator who loves sharing what I learn along the way.
 
 ### Certifications
 ![AWS CLF-C02](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-fff?style=flat&logo=amazonwebservices&logoColor=FFFFFF&labelColor=1e1c28)
@@ -17,7 +17,7 @@ Tech Education Analyst at DIO, a postgrad in Software Development with Agile Met
 
 ##
 
-### 🎬 Latest Video
+### 🎬 Latest Videos
 - [🇧🇷 Primeiros Passos com SQL e Modelagem de Banco de Dados](https://www.youtube.com/watch?v=fSaY_rvHs_M)
 - [🇧🇷 Escrevendo uma Aplicação Utilizando o GitHub Copilot na Prática](https://www.youtube.com/watch?v=jecdgYlKOIQ)
   
@@ -28,4 +28,4 @@ Tech Education Analyst at DIO, a postgrad in Software Development with Agile Met
 
 ##
 
-Thanks for visiting — happy coding! 🩷
+Thanks for visiting — happy coding! 😊

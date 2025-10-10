@@ -3,7 +3,8 @@
 
 ## certifications 
 
-
+![AWS CLF-C02](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-fff?style=flat&logo=amazonwebservices&logoColor=FFFFFF&labelColor=1e1c28)
+![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations%20Certification-fff?style=flat&logo=github&logoColor=FFFFFF&labelColor=1e1c28)
 
 ## Connect with me
 
